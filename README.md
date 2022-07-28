@@ -65,3 +65,4 @@ bin/kafka-topics.sh --alter --bootstrap-server localhost:9092 \
 ref
 
 https://mydeveloperplanet.com/2019/10/30/kafka-streams-joins-explored/
+https://developer.confluent.io/learn-kafka/spring/process-messages-with-kafka-streams/
